@@ -1,0 +1,1 @@
+DNN assignments stored here
